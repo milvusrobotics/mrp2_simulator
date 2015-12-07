@@ -2,7 +2,7 @@
 <package>
   <name>mrp2_hardware_gazebo</name>
   <version>0.2.0</version>
-  <description>Gazebo plugin to control a mrp2 robot in simulation.</description>
+  <description>Gazebo plugin of MRP2 robot hardware used in simulation.</description>
   <maintainer email="akifhno@gmail.com">Akif Hacinecipoglu</maintainer>
   <license>BSD</license>
 
