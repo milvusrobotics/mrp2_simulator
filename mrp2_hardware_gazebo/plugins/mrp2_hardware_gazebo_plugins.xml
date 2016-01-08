@@ -1,5 +1,4 @@
 <library path="lib/libmrp2_hardware_gazebo">
-
   <class
     name="mrp2_hardware_gazebo/Mrp2HardwareGazebo"
     type="mrp2_hardware_gazebo::Mrp2HardwareGazebo"
