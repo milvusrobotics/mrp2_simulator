@@ -2,8 +2,8 @@
 Changelog for package mrp2_hardware_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.3 (2016-03-10)
+------------------
 * Updated package informations
 * Contributors: Akif
 

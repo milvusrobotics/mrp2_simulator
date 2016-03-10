@@ -2,8 +2,8 @@
 Changelog for package mrp2_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.3 (2016-03-10)
+------------------
 * Updated package informations
 * Organized config files
 * Contributors: Akif
