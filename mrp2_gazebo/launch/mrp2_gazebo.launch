@@ -33,5 +33,9 @@
 
   <!-- Teleoperation via joystick and rviz interactive markers -->
   <include file="$(find mrp2_teleop)/launch/teleop.launch" />
+
+  <!-- Launch cartographer with move base -->
+  <include file="$(find mrp2_slam)/launch/mrp2_cartographer.launch" />
+
   
 </launch>
