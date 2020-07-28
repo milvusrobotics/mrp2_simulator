@@ -3,7 +3,7 @@
   <name>mrp2_simulator</name>
   <version>0.2.3</version>
   <description>Simulation-related packages for MRP2</description>
-  <maintainer email="akifhno@gmail.com">Akif Hacinecipoglu</maintainer>
+  <maintainer email="emircem.g@milvusrobotics.com">Emir Cem Gezer</maintainer>
   <license>BSD</license>
 
   <author email="akifhno@gmail.com">Akif Hacinecipoglu</author>
