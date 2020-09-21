@@ -2,8 +2,8 @@
 Changelog for package mrp2_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.1 (2020-09-21)
+------------------
 * version bump to 1.0.0
 * package maintainers updated
 * remove controls
