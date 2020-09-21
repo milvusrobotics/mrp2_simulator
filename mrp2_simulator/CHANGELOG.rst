@@ -2,6 +2,13 @@
 Changelog for package mrp2_simulator
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* version bump to 1.0.0
+* package maintainers updated
+* removed dependency: mrp2_hardware_gazebo package
+* Contributors: OnurDz
+
 0.2.3 (2016-03-10)
 ------------------
 * Updated package informations
